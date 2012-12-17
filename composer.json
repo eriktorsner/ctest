@@ -1,0 +1,19 @@
+{
+  "name": "eriktorsner/ctest",
+	"version": "1.0.0",
+	"type": "library",
+	"description": "test",
+    "keywords": ["codeigniter", "handbook"],
+    "homepage": "https://github.com/eriktorsner/ctest",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Erik Torsne",
+        "email": "erik@torgesta.com",
+        "homepage": "http://erik.torgesta.com"
+      }
+    ],
+    "require": {
+    	"php": ">=5.3.2"
+    }
+}
