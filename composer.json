@@ -1,6 +1,6 @@
 {
 	"name": "eriktorsner/ctest",
-	"version": "1.0.0",
+	"version": "dev-master",
 	"type": "library",
 	"description": "test",
 	"keywords": ["codeigniter", "handbook"],
